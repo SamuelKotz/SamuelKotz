@@ -1,4 +1,4 @@
-- SamuelKotz
+- Samuel Kotz
 - Brazilian
 - Student (IFSul)
   
