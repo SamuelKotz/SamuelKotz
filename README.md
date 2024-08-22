@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with AI <br>📚 Studying C++<br>🎮 I develop games sometimes</p>
+<p align="left">✨ Working with AI <br>📚 Certified by: Huawei, Microsoft and IFSul<br>🎮 I develop games sometimes</p>
 
 ###
 
