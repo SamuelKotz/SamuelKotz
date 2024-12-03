@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Brazilian 🇧🇷<br>Student (IFSul)<br>Dev AI 👨‍💻</p>
+<p align="left">Brazilian 🇧🇷<br>Student (IFSul)<br>
 
 ###
 
