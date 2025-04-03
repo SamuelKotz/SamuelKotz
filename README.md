@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with AI <br>📚 Learning C++ <br>🎮 GameMaker</p>
+<p align="left">👨‍💻 Working with Node.js <br>📚 Learning AI <br>✨Actually on Supernova Digital</p>
 
 ###
 
