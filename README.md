@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Working in Supernova Digital <br>📚 Learning AI <br>✨ Student in IFSul</p>
+<p align="left">👨‍💻 Working in Supernova Digital <br>📚 Learning AI & Automation<br></p>
 
 ###
 
