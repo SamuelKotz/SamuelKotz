@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Brazilian 🇧🇷<br>Student (IFSul)<br>
+<p align="left">Brazilian 🇧🇷<br>Software Developer<br>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Working in Supernova Digital <br>📚 Learning AI & Automation<br></p>
+<p align="left">👨‍💻 Working in Supernova<br>📚 Learning Software Engineering (UCB)<br></p>
 
 ###
 
