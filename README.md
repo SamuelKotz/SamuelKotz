@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Working in Supernova as Solutions Architect/Process Owner<br>📚 Learning Software Engineering (Catholic University LaSalle)<br></p>
+<p align="left">👨‍💻 Working in Supernova as Solutions Architect<br>📚 Learning Software Engineering (Catholic University LaSalle)<br></p>
 
 ###
 
